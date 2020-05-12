@@ -1,0 +1,6 @@
+*.exe
+.vscode
+
+_build
+*.pro.user
+*.qbs.user
